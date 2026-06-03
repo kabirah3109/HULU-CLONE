@@ -1,0 +1,6 @@
+#first{
+    background-image: url("/image/firstBg.jpg") linear-gradient(to right, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5));
+}
+p a{
+    text-decoration: underline;
+}
